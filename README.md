@@ -1,3 +1,3 @@
 # youmin1017.github.io
 
-* [Notes](notes.youmin.me)
+* [Notes](https://notes.youmin.me)
